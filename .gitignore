@@ -1,2 +1,9 @@
 .vscode/**
 *.diff
+*.patch
+
+# Object files
+*.o
+
+# Binary
+st
